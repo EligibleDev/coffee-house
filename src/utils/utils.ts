@@ -11,21 +11,11 @@ import {
 export const maxDrinkPrice = 15000;
 
 export const sortingMethods = [
-    {
-        method: "Sort by Default",
-    },
-    {
-        method: "Sort by Popularity",
-    },
-    {
-        method: "Sort by Latest",
-    },
-    {
-        method: "Sort by Price: Low to High",
-    },
-    {
-        method: "Sort by Price: High to Low",
-    },
+    { method: "Sort by Default" },
+    { method: "Sort by Popularity" },
+    { method: "Sort by Latest" },
+    { method: "Sort by Price: Low to High" },
+    { method: "Sort by Price: High to Low" },
 ];
 
 export const socials = [
