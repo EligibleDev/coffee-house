@@ -1,10 +1,10 @@
-import HomeHeader from "@/components/homeHeader/homeHeader";
+import Banner from "./components/banner";
 
 const Home = () => {
     return (
-        <div>
-            <HomeHeader />
-        </div>
+        <main>
+            <Banner />
+        </main>
     );
 };
 

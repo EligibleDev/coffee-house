@@ -3,15 +3,6 @@ import { headerIcons, navLinks, socials } from "@/utils/utils";
 import { Menu } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import {
-    Navbar,
-    Tooltip,
-    TooltipProvider,
-    NavbarCollapse,
-    NavbarContainer,
-    NavbarCollapseBtn,
-    NavbarItem,
-} from "keep-react";
 
 const HomeHeader = () => {
     return (
